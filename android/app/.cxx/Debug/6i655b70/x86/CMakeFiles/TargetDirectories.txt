@@ -1,0 +1,2 @@
+C:/Users/Zohaib/StudioProjects/habit_tracker/android/app/.cxx/Debug/6i655b70/x86/CMakeFiles/edit_cache.dir
+C:/Users/Zohaib/StudioProjects/habit_tracker/android/app/.cxx/Debug/6i655b70/x86/CMakeFiles/rebuild_cache.dir
